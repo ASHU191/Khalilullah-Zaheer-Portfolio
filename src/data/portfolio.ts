@@ -140,7 +140,7 @@ export const projectFilters = [
 export const projects: Project[] = [
   {
     image:
-      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
+      "https://drive.google.com/file/d/1ZiFMT4siVHBHau7rG3AgJ9hzBfK9mKe7/view?usp=sharing",
     title: "Premium Watch Store",
     description:
       "Shopify Plus storefront with custom product configurator and a checkout flow that lifted conversions by 34%.",
