@@ -139,66 +139,86 @@ export const projectFilters = [
  */
 export const projects: Project[] = [
   {
-    image:
-      "https://res.cloudinary.com/yoof237d/image/upload/f_auto,q_auto/1_4",
-    title: "Premium Watch Store",
-    description:
-      "Shopify Plus storefront with custom product configurator and a checkout flow that lifted conversions by 34%.",
-    link: "https://example.com",
-    tech: ["Shopify Plus", "Liquid", "Tailwind CSS"],
-    category: "Shopify",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
-    title: "SaaS Launch Landing Page",
-    description:
-      "High-converting launch page with animated sections, A/B tested hero and a 4.1% signup rate.",
-    link: "https://example.com",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
-    category: "Landing Pages",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=1200&q=80",
-    title: "Interior Studio Website",
-    description:
-      "Custom WordPress theme with a visual page builder the client's team manages entirely on their own.",
-    link: "https://example.com",
-    tech: ["WordPress", "PHP", "ACF"],
-    category: "WordPress",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80",
-    title: "Organic Grocery WooCommerce",
-    description:
-      "WooCommerce store with subscription boxes, delivery slots and a 1.8s load time after optimization.",
-    link: "https://example.com",
-    tech: ["WooCommerce", "WordPress", "PHP"],
-    category: "WordPress",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
-    title: "Analytics Dashboard",
-    description:
-      "Custom React dashboard pulling live order data from Shopify and Stripe into one clean view.",
-    link: "https://example.com",
-    tech: ["React", "TypeScript", "API Integration"],
-    category: "Custom Development",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1200&q=80",
-    title: "Skincare Brand Store",
-    description:
-      "Full Shopify build with bundle upsells, quiz-based product finder and a refreshed brand system.",
-    link: "https://example.com",
-    tech: ["Shopify", "Liquid", "JavaScript"],
-    category: "Shopify",
-  },
-];
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Bauerfeind USA E-Commerce Store",
+  description:
+    "Premium medical products e-commerce platform with a clean shopping experience, product discovery and optimized online storefront.",
+  link: "https://www.bauerfeind.us",
+  tech: ["Shopify", "E-Commerce", "Custom Theme"],
+  category: "Shopify",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Jungle Boys Florida Store",
+  description:
+    "Modern cannabis brand website with product showcases, location experience and a strong brand-focused digital presence.",
+  link: "https://jungleboysflorida.com/",
+  tech: ["Shopify", "Liquid", "E-Commerce"],
+  category: "Shopify",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Maison De Luxe Website",
+  description:
+    "Luxury fashion storefront designed with an elegant interface, premium visuals and a smooth customer journey.",
+  link: "https://maisondeluxe.co.in/",
+  tech: ["Shopify", "Liquid", "Tailwind CSS"],
+  category: "Shopify",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Sleep Shop Canada",
+  description:
+    "Sleep products e-commerce platform featuring product collections, online shopping experience and conversion-focused layouts.",
+  link: "https://sleepshop.ca/",
+  tech: ["WooCommerce", "WordPress", "PHP"],
+  category: "WordPress",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Media Lab Website",
+  description:
+    "Creative digital platform showcasing services, projects and interactive content with a modern responsive design.",
+  link: "https://medialab.aua.am/",
+  tech: ["WordPress", "PHP", "Custom Design"],
+  category: "WordPress",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Grounded Brand Website",
+  description:
+    "Brand-focused website with storytelling sections, modern layouts and an engaging user experience.",
+  link: "https://grounded.org/",
+  tech: ["WordPress", "CMS", "UI Design"],
+  category: "WordPress",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Heritage Kulfi Store",
+  description:
+    "Food brand website highlighting products, brand identity and a smooth customer browsing experience.",
+  link: "https://heritagekulfi.com/",
+  tech: ["Shopify", "Liquid", "E-Commerce"],
+  category: "Shopify",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Mission Digital Platform",
+  description:
+    "Professional business website built with clear messaging, modern sections and optimized user navigation.",
+  link: "https://www.mission.com/",
+  tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+  category: "Landing Pages",
+},
+{
+  image: "CLOUDINARY_IMAGE_URL",
+  title: "Skinchanted Beauty Store",
+  description:
+    "Beauty brand e-commerce experience with product presentation, premium visuals and customer-focused shopping flow.",
+  link: "https://skinchanted.com/",
+  tech: ["Shopify", "Liquid", "JavaScript"],
+  category: "Shopify",
+},
 
 export const experience: ExperienceItem[] = [
   {
