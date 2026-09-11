@@ -139,7 +139,8 @@ export const projectFilters = [
  */
 export const projects: Project[] = [
   {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Bauerfeind USA E-Commerce Store",
   description:
     "Premium medical products e-commerce platform with a clean shopping experience, product discovery and optimized online storefront.",
@@ -148,7 +149,8 @@ export const projects: Project[] = [
   category: "Shopify",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Jungle Boys Florida Store",
   description:
     "Modern cannabis brand website with product showcases, location experience and a strong brand-focused digital presence.",
@@ -157,7 +159,8 @@ export const projects: Project[] = [
   category: "Shopify",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Maison De Luxe Website",
   description:
     "Luxury fashion storefront designed with an elegant interface, premium visuals and a smooth customer journey.",
@@ -166,7 +169,8 @@ export const projects: Project[] = [
   category: "Shopify",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Sleep Shop Canada",
   description:
     "Sleep products e-commerce platform featuring product collections, online shopping experience and conversion-focused layouts.",
@@ -175,7 +179,8 @@ export const projects: Project[] = [
   category: "WordPress",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Media Lab Website",
   description:
     "Creative digital platform showcasing services, projects and interactive content with a modern responsive design.",
@@ -184,7 +189,8 @@ export const projects: Project[] = [
   category: "WordPress",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Grounded Brand Website",
   description:
     "Brand-focused website with storytelling sections, modern layouts and an engaging user experience.",
@@ -193,7 +199,8 @@ export const projects: Project[] = [
   category: "WordPress",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Heritage Kulfi Store",
   description:
     "Food brand website highlighting products, brand identity and a smooth customer browsing experience.",
@@ -202,7 +209,8 @@ export const projects: Project[] = [
   category: "Shopify",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Mission Digital Platform",
   description:
     "Professional business website built with clear messaging, modern sections and optimized user navigation.",
@@ -211,7 +219,8 @@ export const projects: Project[] = [
   category: "Landing Pages",
 },
 {
-  image: "CLOUDINARY_IMAGE_URL",
+  image:
+    "https://res.cloudinary.com/yoof237d/image/upload/v1789087499/1_4.png",
   title: "Skinchanted Beauty Store",
   description:
     "Beauty brand e-commerce experience with product presentation, premium visuals and customer-focused shopping flow.",
