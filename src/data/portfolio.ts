@@ -228,7 +228,7 @@ export const projects: Project[] = [
   tech: ["Shopify", "Liquid", "JavaScript"],
   category: "Shopify",
 },
-
+];
 export const experience: ExperienceItem[] = [
   {
     role: "Co-Founder",
