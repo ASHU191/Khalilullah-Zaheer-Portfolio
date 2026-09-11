@@ -64,10 +64,10 @@ export const socials: Social[] = [
     href: "https://www.upwork.com/freelancers/~018c59e29fe3bebd70",
     icon: "upwork",
   },
-  { name: "LinkedIn", href: "https://www.linkedin.com/", icon: "linkedin" },
+  { name: "LinkedIn", href: "linkedin.com/in/khalilullah-z?utm_source=share_via&utm_content=profile&utm_medium=member_android", icon: "linkedin" },
   { name: "GitHub", href: "https://github.com/", icon: "github" },
   { name: "Twitter", href: "https://x.com/", icon: "twitter" },
-  { name: "Instagram", href: "https://www.instagram.com/", icon: "instagram" },
+  // { name: "Instagram", href: "https://www.instagram.com/", icon: "instagram" },
 ];
 
 export const navLinks = [
