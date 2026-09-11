@@ -65,8 +65,8 @@ export const socials: Social[] = [
     icon: "upwork",
   },
   { name: "LinkedIn", href: "linkedin.com/in/khalilullah-z?utm_source=share_via&utm_content=profile&utm_medium=member_android", icon: "linkedin" },
-  { name: "GitHub", href: "https://github.com/", icon: "github" },
-  { name: "Twitter", href: "https://x.com/", icon: "twitter" },
+  // { name: "GitHub", href: "https://github.com/", icon: "github" },
+  // { name: "Twitter", href: "https://x.com/", icon: "twitter" },
   // { name: "Instagram", href: "https://www.instagram.com/", icon: "instagram" },
 ];
 
