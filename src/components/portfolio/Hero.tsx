@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { ArrowRight, Mail, Sparkles } from "lucide-react";
-import profileImage from "@/assets/profile.jpg";
+import profileImage from "@/assets/cropped_circle_image.png";
 import { profile, socials, stats } from "@/data/portfolio";
 import { ActionLink, Pill, SocialLinks, fadeUp } from "./primitives";
 
