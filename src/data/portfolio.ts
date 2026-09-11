@@ -140,7 +140,7 @@ export const projectFilters = [
 export const projects: Project[] = [
   {
     image:
-      "https://imgpile.com/m/KNoeSty",
+      "https://res.cloudinary.com/yoof237d/image/upload/f_auto,q_auto/1_4",
     title: "Premium Watch Store",
     description:
       "Shopify Plus storefront with custom product configurator and a checkout flow that lifted conversions by 34%.",
